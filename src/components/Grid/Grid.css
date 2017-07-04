@@ -1,0 +1,5 @@
+.y-grid .tick line{
+    stroke: #40B4E8;
+    stroke-width: 1px;
+    stroke-opacity: .7;
+}

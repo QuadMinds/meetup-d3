@@ -1,0 +1,12 @@
+.axis line{
+    stroke: #92D4F6;
+}
+
+.axis .tick text{
+    fill: #92D4F6;
+    font-size: x-small;
+}
+
+.y-axis .tick line{
+    stroke-opacity: 0;
+}
